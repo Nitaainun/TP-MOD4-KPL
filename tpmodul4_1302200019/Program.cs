@@ -11,15 +11,16 @@ namespace tpmodul4_1302200019
         static void Main(string[] args)
         {
             HaloGeneric<string> halo = new HaloGeneric<string>();
-            String x = "Halo user x";
+            String x = "Nita";
             halo.SapaUser(x);
+
         }
     }
     public class HaloGeneric<T>
     {
-        public void SapaUser(T  x)
+        public void SapaUser(T x)
         {
-            Console.WriteLine("halo" + x);
+            Console.WriteLine("Halo " + x);
         }
     }
 }
