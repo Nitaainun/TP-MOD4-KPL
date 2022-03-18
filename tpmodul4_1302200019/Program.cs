@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-﻿Console.Write("Hello World");
-=======
+
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,15 +11,13 @@ namespace tpmodul4_1302200019
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
             HaloGeneric<string> halo = new HaloGeneric<string>();
             String x = "Nita";
             halo.SapaUser(x);
 
-=======
-            DataGeneric<String> data = new DataGeneric<string>("1302202095");
+            DataGeneric<String> data = new DataGeneric<string>("1302200019");
             data.PrintData();
-        }
+        }        
     }
 
     public class DataGeneric<T>
@@ -34,7 +30,6 @@ namespace tpmodul4_1302200019
         public void PrintData()
         {
             Console.WriteLine("Data yang tersimpan adalah: " + this.data);
->>>>>>> generic-class
         }
     }
     public class HaloGeneric<T>
@@ -45,4 +40,3 @@ namespace tpmodul4_1302200019
         }
     }
 }
->>>>>>> generic-method
