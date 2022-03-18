@@ -10,7 +10,7 @@ namespace tpmodul4_1302200019
     {
         static void Main(string[] args)
         {
-            DataGeneric<String> data = new DataGeneric<string>("1302200019");
+            DataGeneric<String> data = new DataGeneric<string>("1302202095");
             data.PrintData();
         }
     }
@@ -24,7 +24,7 @@ namespace tpmodul4_1302200019
         }
         public void PrintData()
         {
-            Console.WriteLine("data yang tersimpan adalah: " + this.data);
+            Console.WriteLine("Data yang tersimpan adalah: " + this.data);
         }
     }
 }
