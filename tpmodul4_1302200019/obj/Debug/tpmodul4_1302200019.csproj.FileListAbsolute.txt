@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\tpmodul4_1302200019\tpmodul4_1302200019\bin\Debug\tpmodul4_1302200019.exe.config
+C:\Users\user\source\repos\tpmodul4_1302200019\tpmodul4_1302200019\bin\Debug\tpmodul4_1302200019.exe
+C:\Users\user\source\repos\tpmodul4_1302200019\tpmodul4_1302200019\bin\Debug\tpmodul4_1302200019.pdb
+C:\Users\user\source\repos\tpmodul4_1302200019\tpmodul4_1302200019\obj\Debug\tpmodul4_1302200019.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\tpmodul4_1302200019\tpmodul4_1302200019\obj\Debug\tpmodul4_1302200019.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\tpmodul4_1302200019\tpmodul4_1302200019\obj\Debug\tpmodul4_1302200019.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\tpmodul4_1302200019\tpmodul4_1302200019\obj\Debug\tpmodul4_1302200019.exe
+C:\Users\user\source\repos\tpmodul4_1302200019\tpmodul4_1302200019\obj\Debug\tpmodul4_1302200019.pdb
